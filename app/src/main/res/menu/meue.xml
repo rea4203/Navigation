@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_a"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_audiotrack_24"
+        android:title="음표"/>
+
+    <item
+        android:id="@+id/ic_b"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_battery_full_24"
+        android:title="배터리"/>
+
+    <item
+        android:id="@+id/ic_c"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_brightness_2_24"
+        android:title="달"/>
+
+    <item
+        android:id="@+id/ic_d"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_mouse_24"
+        android:title="마우스"/>
+
+    <item
+        android:id="@+id/ic_e"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_people_24"
+        android:title="사람들"/>
+
+
+</menu>
